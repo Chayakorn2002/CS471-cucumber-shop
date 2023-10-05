@@ -27,6 +27,11 @@ public class Product {
     public void setName(String name) {
         this.name = name;
     }
+
+    public void setStock(int stock) {
+        this.stock = stock;
+    }
+
     public void setPrice(double price) {
         this.price = price;
     }
